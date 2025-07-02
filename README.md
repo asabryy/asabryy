@@ -41,7 +41,7 @@ My work bridges the gap between IT operations and data-driven development—rang
 - **Deployment Technician @ Microserve**  
   Deployed 1000+ desktops across healthcare sites, streamlined imaging and configuration.
 
-See my full [Résumé here](https://ahmedahmed.ca/resume.pdf) or check the [`resume`](https://github.com/asabryy/resume) repo.
+See my full [Résumé here](https://ahmedahmed.ca/resume.pdf) or check the [`resume`](https://github.com/asabryy/Ahmed-Ahmed-Resume) repo.
 
 ---
 
