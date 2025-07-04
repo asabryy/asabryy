@@ -47,10 +47,10 @@ See my full [Résumé here](https://ahmedahmed.ca/resume.pdf) or check the [`res
 
 ### 📊 Highlight Projects
 
-- 🔠 [**Arabic OCR Web App**](https://github.com/asabryy/arabic-ocr-app): FastAPI + React app for processing scanned Arabic documents  
-- 📈 [**GTA Collision Analysis**](https://github.com/asabryy/gta-collision-analysis): Data analytics using R, SQL, and Tableau  
-- 🔍 [**Document Search Engine**](https://github.com/asabryy/doc-search): Full-text search using Python, Kafka, and Elasticsearch  
-- 🚗 [**RL-Controlled Car**](https://github.com/asabryy/rl-car): Reinforcement Learning with Gym Retro
+- 🔠 [**Arabic OCR Web App**](https://github.com/asabryy/arabic-ocr-web): FastAPI + React app for processing scanned Arabic documents  
+- 📈 [**GTA Collision Analysis**](): Data analytics using R, SQL, and Tableau  
+- 🔍 [**Document Search Engine**](): Full-text search using Python, Kafka, and Elasticsearch  
+- 🚗 [**RL-Controlled Car**](): Reinforcement Learning with Gym Retro
 
 ---
 
