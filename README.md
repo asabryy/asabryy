@@ -1,67 +1,50 @@
-<h1 align="center">Hi there, I'm Ahmed 👋</h1>
-
+<h1 align="center">Ahmed Ahmed</h1>
 <p align="center">
-  <strong>B.Sc. in Computer Science</strong> • <em>Aspiring Data Analyst & Software Developer</em><br/>
-  <a href="mailto:aheshamsabry@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/ahmedsabryahmed">LinkedIn</a> • 
-  <a href="https://ahmedahmed.ca">Portfolio</a> • 
-  <a href="https://github.com/asabryy">GitHub</a>
+  DevOps Engineer &nbsp;·&nbsp; B.Sc. Computer Science, University of Victoria<br/>
+  <a href="mailto:aheshamsabry@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/ahmedsabryahmed">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://ahmedahmed.ca">Portfolio</a>
 </p>
 
 ---
 
-### 🚀 About Me
-
-I'm a Computer Science graduate from the University of Victoria, with experience in both **IT infrastructure** and **software/data engineering**. I'm passionate about building tools that automate workflows, simplify analysis, and make systems smarter.
-
-My work bridges the gap between IT operations and data-driven development—ranging from scripting and automation to API development and dashboarding.
+3+ years automating infrastructure, building CI/CD pipelines, and deploying containerized workloads in production healthcare environments. I work across the full DevOps surface — from Python and PowerShell scripting to Kubernetes orchestration and GitHub Actions pipelines.
 
 ---
 
-### 🧰 Skills
+### Experience
 
-- **Languages**: Python, Java, JavaScript, SQL, HTML/CSS  
-- **Tools**: Git, FastAPI, Power BI, Tableau, Docker, SCCM, Intune  
-- **Concepts**: Data Cleaning, Feature Engineering, ML Model Evaluation, Process Automation
-
----
-
-### 🏆 Certificates
-
-- **Google Data Analytics Professional Certificate**  
-- **Stanford Online – Supervised Machine Learning**
+**Project Analyst** — St. Joseph's Healthcare Hamilton *(Jan 2026 – Present)*  
+**Desktop Support Analyst / Internal Tools Developer** — St. Joseph's Healthcare Hamilton *(May 2024 – Jan 2026)*  
+**Deployment Technician** — Microserve *(May 2023 – May 2024)*
 
 ---
 
-### 💼 Recent Experience
+### Projects
 
-- **Desktop Support Analyst @ St Joseph’s Healthcare**  
-  Automated IT workflows (PowerShell, FastAPI), managed multi-site deployments, and improved reporting pipelines using SQL and scripting tools.
-
-- **Deployment Technician @ Microserve**  
-  Deployed 1000+ desktops across healthcare sites, streamlined imaging and configuration.
-
-See my full [Résumé here](https://ahmedahmed.ca/resume.pdf) or check the [`resume`](https://github.com/asabryy/Ahmed-Ahmed-Resume) repo.
-
----
-
-### 📊 Highlight Projects
-
-- 🔠 [**Arabic OCR Web App**](https://github.com/asabryy/arabic-ocr-web): FastAPI + React app for processing scanned Arabic documents  
-- 📈 [**GTA Collision Analysis**](): Data analytics using R, SQL, and Tableau  
-- 🔍 [**Document Search Engine**](): Full-text search using Python, Kafka, and Elasticsearch  
-- 🚗 [**RL-Controlled Car**](): Reinforcement Learning with Gym Retro
+| Project | Stack | Description |
+|---|---|---|
+| [TextAra](https://textara.app) | FastAPI · React · Docker · Kubernetes · RabbitMQ · GCP · GitHub Actions | Microservices platform converting Arabic PDFs to DOCX via an ML/OCR pipeline. Multi-environment CI/CD, K8s auto-scaling, async processing via RabbitMQ. |
+| TrustLens | FastAPI · PostgreSQL · Docker · Chrome MV3 · NLP | Chrome extension with a Dockerized backend delivering real-time domain reputation scores and NLP-based clickbait detection. |
+| Document Search Engine | Python · Elasticsearch · Kafka · Docker | Event-driven document search microservice with user-defined lambda preprocessing and containerized independent scaling. |
+| RL-Controlled Car | Python · Gym Retro · RL | Reinforcement learning agents trained to navigate obstacle courses with tournament-style policy evaluation. |
 
 ---
 
-### 🌐 Let's Connect
+### Stack
 
-I'm always open to interesting conversations and new opportunities in data, dev, or automation.
-
-- 💌 Email: [aheshamsabry@gmail.com](mailto:aheshamsabry@gmail.com)  
-- 🌐 Portfolio: [ahmedahmed.ca](https://ahmedahmed.ca)  
-- 💼 LinkedIn: [linkedin.com/in/ahmedsabryahmed](https://linkedin.com/in/ahmedsabryahmed)
+```
+Cloud & DevOps      Docker  Kubernetes  GitHub Actions  GCP  Azure  AWS  Nginx  RabbitMQ
+Infra & Automation  PowerShell  Bash  SCCM/MECM  Active Directory  Intune  ServiceNow
+Languages           Python  JavaScript  SQL  R  Java
+Frameworks          FastAPI  Django  Flask  React.js
+Databases           PostgreSQL  MySQL  Cloud SQL
+```
 
 ---
 
-<sub>🔧 Powered by Markdown • Designed for GitHub • Last updated: July 2025</sub>
+### Certifications
+
+- AWS Certified Cloud Practitioner *(in progress)*
+- Google Data Analytics Professional Certificate — Coursera, 2025
+- Supervised Machine Learning — Stanford Online, 2023
